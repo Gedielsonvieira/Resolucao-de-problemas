@@ -22,7 +22,10 @@
 * Identificar aspectos não essenciais do nosso problema, ignorando problemas irrelevantes
 
 > Aqui, queremos pensar em perguntar se algumas partes do problema que estamos resolvendo são realmente menos relevantes para um resultado bem-sucedido.<br>
-Existem elementos estranhos do problema que distraem e não são tão importantes como pensamos no início? 
+Existem elementos estranhos do problema que distraem e não são tão importantes como pensamos no início?
+
+#### Orientação a objetos: Abstração
+O conceito de abstração consiste em esconder os detalhes de algo, no caso, os detalhes desnecessários.
 
 ### 6. Problema solucionado
 > A solução do problema se dá pela junção dos problemas menores.
